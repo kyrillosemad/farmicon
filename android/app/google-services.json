@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771230643858",
+    "project_id": "farmicon-72d57",
+    "storage_bucket": "farmicon-72d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771230643858:android:26a3832addd78878c6d84b",
+        "android_client_info": {
+          "package_name": "com.example.farmicon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7k2Nq1rX24bcyAT9W3MzqB6EU-vuSHoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
